@@ -1,0 +1,31 @@
+C:\Users\asus\Desktop\C# form\proje\proje\bin\Debug\proje.exe.config
+C:\Users\asus\Desktop\C# form\proje\proje\bin\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\proje\proje\bin\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\bin\Debug\proje.exe.config
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\bin\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\bin\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.Form2.resources
+C:\Users\asus\Desktop\C# form\proje - Kopya\proje\obj\Debug\proje.YuksekSkor.resources
+C:\Users\asus\Desktop\C# form\projee\proje\bin\Debug\proje.exe.config
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\projee\proje\bin\Debug\proje.exe
+C:\Users\asus\Desktop\C# form\projee\proje\bin\Debug\proje.pdb
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.Form2.resources
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.YuksekSkor.resources
+C:\Users\asus\Desktop\C# form\projee\proje\obj\Debug\proje.csproj.GenerateResource.Cache
